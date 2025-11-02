@@ -1,0 +1,42 @@
++----+-------------------------+
+| id | dndname                 |
++----+-------------------------+
+|  2 | Uitgelogd               |	logged off
+|  3 | Campagne voeren         |	taking calls
+|  7 | Pauze                   |	break
+|  8 | Lunchpauze              |	lunch break ( unavailable unpaid)
+| 16 | WRAP-UP                 |	wrap up
+| 35 | Inloggen                |	logging in (preparing to use the system, unavailable and unpaid)
+| 39 | Overleg Senior          |	meeting (unavailable)
+| 40 | Overleg Supervisor      |	meeting (unavailable)
+| 41 | Overige werkzaamheden   |	other work (unavailable)
+| 42 | Floorwalker             |	other work (unavailable)
+| 43 | Tussenuur               |	break (unvailable and unpaid)
+| 44 | Uitgelogd (systeem)     |	logged off by system
+| 61 | MSB Uitbellen           |	outbound calling (not in call log)
+| 71 | Urencorrectie (systeem) |	corrected hours (treat this as logged out)
+
++----+-------------------------+
+
+
+
+Voici la traduction du tableau avec les descriptions en français :
+
+| id | dndname                 | Description en français                                                             |
+| -- | ----------------------- | ----------------------------------------------------------------------------------- |
+| 2  | Uitgelogd               | Déconnecté                                                                          |
+| 3  | Campagne voeren         | Prise d'appels                                                                      |
+| 7  | Pauze                   | Pause                                                                               |
+| 8  | Lunchpauze              | Pause déjeuner (indisponible, non rémunérée)                                        |
+| 16 | WRAP-UP                 | Finalisation de l'appel (wrap-up)                                                   |
+| 35 | Inloggen                | Connexion (préparation à l’utilisation du système, non disponible et non rémunérée) |
+| 39 | Overleg Senior          | Réunion avec un senior (indisponible)                                               |
+| 40 | Overleg Supervisor      | Réunion avec un superviseur (indisponible)                                          |
+| 41 | Overige werkzaamheden   | Autres tâches (indisponible)                                                        |
+| 42 | Floorwalker             | Assistance sur le plateau (autres tâches, indisponible)                             |
+| 43 | Tussenuur               | Heure creuse / intervalle (pause, indisponible et non rémunérée)                    |
+| 44 | Uitgelogd (systeem)     | Déconnecté par le système                                                           |
+| 61 | MSB Uitbellen           | Appels sortants (non présent dans le journal d’appels)                              |
+| 71 | Urencorrectie (systeem) | Correction d’heures (à traiter comme une déconnexion)                               |
+
+Souhaitez-vous une version CSV ou Excel de ce tableau traduit ?

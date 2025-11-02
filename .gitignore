@@ -1,0 +1,6 @@
+/anns/saved_models/
+/anns/.pt_tmp/
+/anns/catboost_info/
+/anns/meilleur_modele.pth
+/anns/vanad_test_ssj.csv
+/anns/vanad_training_ssj.csv
